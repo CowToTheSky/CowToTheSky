@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @CowToTheSky.
 - 👀 I’m interested in blockchain and cryptology & Go.
 - 🌱 I’m currently learning Asynchronous consensus algorithm.
-- 📫 I’m a student from Shanxi University.
+- 📫 I’m a first-year postgraduate student.
+ .
 
 <!---
 CowToTheSky/CowToTheSky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
